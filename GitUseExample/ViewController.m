@@ -14,6 +14,13 @@
 
 @implementation ViewController
 
+#pragma mark - IBActions
+
+- (IBAction)clickTheButton:(id)sender
+{
+    NSLog(@"This is a GIT tutorial");
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
