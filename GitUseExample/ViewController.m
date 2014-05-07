@@ -22,6 +22,7 @@
     NSLog(@"New code to commit");
     NSLog(@"Edit to check github!");
     NSLog(@"Did you see that????");
+    NSLog(@"OMG I just shat my pants");
 }
 
 - (void)viewDidLoad
