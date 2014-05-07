@@ -20,6 +20,7 @@
 {
     NSLog(@"This is a GIT tutorial");
     NSLog(@"New code to commit");
+    NSLog(@"Edit to check github!");
 }
 
 - (void)viewDidLoad
