@@ -19,6 +19,7 @@
 - (IBAction)clickTheButton:(id)sender
 {
     NSLog(@"This is a GIT tutorial");
+    NSLog(@"New code to commit");
 }
 
 - (void)viewDidLoad
