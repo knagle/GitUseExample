@@ -14,6 +14,7 @@
 {
     // Override point for customization after application launch.
     NSLog(@"application did finish launching");
+    NSLog(@"Changing the AppDelegate file. Did anything else change?");
     
     return YES;
 }

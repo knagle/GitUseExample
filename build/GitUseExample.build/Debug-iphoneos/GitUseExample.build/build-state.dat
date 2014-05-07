@@ -43,25 +43,225 @@ c000000005326FFF0000000000000019E
 t1395064816
 s414
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005326FFF1000000000063A500
+t1395064817
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005326FFF2000000000079C660
+t1395064818
+s7980640
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 c000000005326FFF200000000004D7BC0
 t1395064818
 s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005326FFF20000000000433410
+t1395064818
+s4404240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005326FFF20000000000306EF0
+t1395064818
+s3174128
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005326FFF2000000000006DCD0
+t1395064818
+s449744
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 c000000005326FFF30000000000A90C10
 t1395064819
 s11078672
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005326FFF300000000000417E0
+t1395064819
+s268256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005326FFF40000000000649DB0
+t1395064820
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005326FFF40000000000186D60
+t1395064820
+s1600864
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
 c000000005326FFF70000000002759920
 t1395064823
 s41261344
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005326FFFB0000000000385D50
+t1395064827
+s3693904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+c000000005326FFFD000000000001E300
+t1395064829
+s123648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+c000000005326FFFD000000000055EFE0
+t1395064829
+s5631968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+c000000005326FFFE000000000002A880
+t1395064830
+s174208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+c000000005326FFFE00000000000458C0
+t1395064830
+s284864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+c000000005326FFFE000000000003E3E0
+t1395064830
+s254944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+c000000005326FFFE000000000002B130
+t1395064830
+s176432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+c000000005326FFFE00000000000E1FD0
+t1395064830
+s925648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005326FFFE00000000000A2A70
+t1395064830
+s666224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+c000000005326FFFE000000000001E8A0
+t1395064830
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+c000000005326FFFE0000000000034380
+t1395064830
+s213888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+c000000005326FFFE0000000000022F30
+t1395064830
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+c000000005326FFFE000000000001E2A0
+t1395064830
+s123552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+c000000005326FFFE0000000000052520
+t1395064830
+s337184
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+c000000005326FFFE0000000000015F20
+t1395064830
+s89888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+c000000005326FFFE00000000001B90D0
+t1395064830
+s1806544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+c000000005326FFFE000000000001F170
+t1395064830
+s127344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+c000000005326FFFE000000000002FCF0
+t1395064830
+s195824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+c000000005326FFFE000000000008A150
+t1395064830
+s565584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+c000000005326FFFE00000000000B60E0
+t1395064830
+s745696
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+c000000005326FFFE0000000000078720
+t1395064830
+s493344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+c000000005326FFFE00000000000621F0
+t1395064830
+s401904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005326FFFE00000000000BDAE0
+t1395064830
+s776928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+c000000005326FFFE0000000000039080
+t1395064830
+s233600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+c000000005326FFFE000000000003CBC0
+t1395064830
+s248768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+c000000005326FFFE000000000002CFE0
+t1395064830
+s184288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+c000000005326FFFE000000000001EB50
+t1395064830
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+c000000005326FFFE000000000001EED0
+t1395064830
+s126672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+c000000005326FFFE00000000000236B0
+t1395064830
+s145072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005326FFFE00000000000AC500
+t1395064830
+s705792
+
 N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
 c00000000532700210000000000000ADC
 t1395064865
 s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053270021000000000000514C
+t1395064865
+s20812
+
+N/Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/AppDelegate.h
+c00000000536A48BA0000000000000121
+t1399474362
+s289
 
 N/Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/AppDelegate.m
 c00000000536A49590000000000000818
@@ -88,10 +288,15 @@ c00000000536A48BA0000000000000088
 t1399474362
 s136
 
+N/Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.h
+c00000000536A49CE000000000000010B
+t1399474638
+s267
+
 N/Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m
-c00000000536A4A210000000000000264
-t1399474721
-s612
+c00000000536A564600000000000002AB
+t1399477830
+s683
 
 N/Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/en.lproj/InfoPlist.strings
 c00000000536A48BA000000000000002D
@@ -104,20 +309,20 @@ t1399474362
 s349
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app
-t1399474782
-s374
+t1399478170
+s408
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM
-t2
-s0
+t1399474782
+s102
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/Base.lproj/Main.storyboardc
 t1399474781
 s170
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample
-t1399474781
-s54492
+t1399478170
+s54484
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/Info.plist
 t1399474782
@@ -140,7 +345,7 @@ t1399474781
 s42
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent
-t1399474782
+t1399478170
 s430
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/AppDelegate.o
@@ -153,8 +358,8 @@ t1399474781
 s413
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o
-t1399474781
-s39564
+t1399478169
+s39896
 
 N/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/main.o
 t1399474781
@@ -188,16 +393,16 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies53d05ddd811ab941^23f764dd811ab941^---0#1#1#--18"Check dependencies36"90FF876F-5DE5-47FF-B317-B6A35A54C6F2-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies666c74188f1ab941^556c80188f1ab941^---0#1#1#--18"Check dependencies36"38FBD898-0D45-4862-98F4-253A90907849-
 
 CCodeSign /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app
-s421167582.232194
-e421167582.500137
+s421170970.128039
+e421170970.318955
 r1
 xCodeSign
 x/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"CodeSign build/Debug-iphoneos/GitUseExample.app47"CodeSign build/Debug-iphoneos/GitUseExample.appf9813bde811ab941^c40980de811ab941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/0000000000000000^1016"CodeSign build/Debug-iphoneos/GitUseExample.app    cd /Users/keith/Desktop/GitTest/GitUseExample    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: David Skulina (G47TEX297N)" and provisioning profile "iOS Team Provisioning Profile: *" (336B6D41-9372-4496-BB1B-4EB1C665666A)    /usr/bin/codesign --force --sign 8C0F89234EB3C1C935930669D126CE89A8242883 --resource-rules=/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/ResourceRules.plist --entitlements /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app36"AE571C72-5F1E-46CF-876E-8A461B7E71F0-
-bB29BBE56-6899-497A-A9CD-B53D21DEB1FD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"CodeSign build/Debug-iphoneos/GitUseExample.app47"CodeSign build/Debug-iphoneos/GitUseExample.app51dd201a8f1ab941^e3a7511a8f1ab941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/0000000000000000^1016"CodeSign build/Debug-iphoneos/GitUseExample.app    cd /Users/keith/Desktop/GitTest/GitUseExample    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: David Skulina (G47TEX297N)" and provisioning profile "iOS Team Provisioning Profile: *" (336B6D41-9372-4496-BB1B-4EB1C665666A)    /usr/bin/codesign --force --sign 8C0F89234EB3C1C935930669D126CE89A8242883 --resource-rules=/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/ResourceRules.plist --entitlements /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app36"0E76A318-0FED-48FF-ABA3-1C213B31BEBD-
+bF420EBD0-96B5-4823-BCCD-08FD458975B3
 
 CCompileAssetCatalog /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app /Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/Images.xcassets
 s421167581.528169
@@ -231,8 +436,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile
 bB29BBE56-6899-497A-A9CD-B53D21DEB1FD
 
 CCompileC build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o /Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s421167581.432255
-e421167581.489143
+s421170968.517998
+e421170969.339010
 r1
 xCompileC
 xbuild/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o
@@ -243,8 +448,8 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m
 d/Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m207"CompileC build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o GitUseExample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd3bd6edd811ab941^c13b7ddd811ab941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m0000000000000000^3596"CompileC build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o GitUseExample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/keith/Desktop/GitTest/GitUseExample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/keith/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample-generated-files.hmap -I/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample-own-target-headers.hmap -I/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample-all-target-headers.hmap -iquote /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample-project-headers.hmap -I/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/DerivedSources/arm64 -I/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/DerivedSources -F/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos -include /var/folders/f3/gtlgbq2n5pv6f9xszj4fv1680000gr/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/GitUseExample-Prefix-gpusvuuyfufawqenhzozpgubavul/GitUseExample-Prefix.pch -MMD -MT dependencies -MF /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.d --serialize-diagnostics /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.dia -c /Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m -o /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o36"A79DDCAE-3BA5-4178-A910-28CA8E60A8F7-
-bB29BBE56-6899-497A-A9CD-B53D21DEB1FD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m207"CompileC build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o GitUseExample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler02b984188f1ab941^10cb56198f1ab941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m0000000000000000^3596"CompileC build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o GitUseExample/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/keith/Desktop/GitTest/GitUseExample    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/keith/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample-generated-files.hmap -I/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample-own-target-headers.hmap -I/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample-all-target-headers.hmap -iquote /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample-project-headers.hmap -I/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/DerivedSources/arm64 -I/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/DerivedSources -F/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos -include /var/folders/f3/gtlgbq2n5pv6f9xszj4fv1680000gr/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/GitUseExample-Prefix-gpusvuuyfufawqenhzozpgubavul/GitUseExample-Prefix.pch -MMD -MT dependencies -MF /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.d --serialize-diagnostics /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.dia -c /Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/ViewController.m -o /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/ViewController.o36"00640C30-AAB9-44FA-8CBE-B2B6CD9CF30B-
+bF420EBD0-96B5-4823-BCCD-08FD458975B3
 
 CCompileC build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/main.o /Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421167581.432776
@@ -292,18 +497,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy bu
 bB29BBE56-6899-497A-A9CD-B53D21DEB1FD
 
 CGenerateDSYMFile /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample
-s421167582.206019
-e421167582.229006
+s421170970.085812
+e421170970.125779
 r1
 xGenerateDSYMFile
 x/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM
 x/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM113"GenerateDSYMFile build/Debug-iphoneos/GitUseExample.app.dSYM build/Debug-iphoneos/GitUseExample.app/GitUseExampleacc834de811ab941^cba03ade811ab941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM00349cf2dcffdf42^638"GenerateDSYMFile build/Debug-iphoneos/GitUseExample.app.dSYM build/Debug-iphoneos/GitUseExample.app/GitUseExample    cd /Users/keith/Desktop/GitTest/GitUseExample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample -o /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM36"0DC4767B-DD92-466E-9997-2C17EA8FCE5A-
-bB29BBE56-6899-497A-A9CD-B53D21DEB1FD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Generate /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM113"GenerateDSYMFile build/Debug-iphoneos/GitUseExample.app.dSYM build/Debug-iphoneos/GitUseExample.app/GitUseExample7103161a8f1ab941^0934201a8f1ab941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM/0000000000000000^638"GenerateDSYMFile build/Debug-iphoneos/GitUseExample.app.dSYM build/Debug-iphoneos/GitUseExample.app/GitUseExample    cd /Users/keith/Desktop/GitTest/GitUseExample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample -o /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app.dSYM36"96CA1FFE-CD04-402E-97FE-ADAA416DC609-
+bF420EBD0-96B5-4823-BCCD-08FD458975B3
 
 CLd /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample normal arm64
-s421167581.502967
-e421167581.527007
+s421170969.456518
+e421170970.084274
 r1
 xLd
 x/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample
@@ -355,8 +560,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Develope
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Link /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample68"Ld build/Debug-iphoneos/GitUseExample.app/GitUseExample normal arm64f6d280dd811ab941^fbea86dd811ab941^---0#0#1#--1290"Ld build/Debug-iphoneos/GitUseExample.app/GitUseExample normal arm64    cd /Users/keith/Desktop/GitTest/GitUseExample    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos -F/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos -filelist /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/GitUseExample.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/GitUseExample_dependency_info.dat -o /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample36"C834CBB6-CB13-4155-ACA9-6C2B9792DEC3-
-bB29BBE56-6899-497A-A9CD-B53D21DEB1FD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Link /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample68"Ld build/Debug-iphoneos/GitUseExample.app/GitUseExample normal arm6420ec74198f1ab941^d593151a8f1ab941^---0#0#1#--1290"Ld build/Debug-iphoneos/GitUseExample.app/GitUseExample normal arm64    cd /Users/keith/Desktop/GitTest/GitUseExample    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos -F/Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos -filelist /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/GitUseExample.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/Objects-normal/arm64/GitUseExample_dependency_info.dat -o /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/GitUseExample36"521A7616-2942-4558-A9D4-196BF661A845-
+bF420EBD0-96B5-4823-BCCD-08FD458975B3
 
 CProcessInfoPlistFile /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/Info.plist /Users/keith/Desktop/GitTest/GitUseExample/GitUseExample/GitUseExample-Info.plist
 s421167582.204049
@@ -387,14 +592,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precomp
 bB29BBE56-6899-497A-A9CD-B53D21DEB1FD
 
 CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent
-s421167582.230966
-e421167582.231892
+s421170970.126596
+e421170970.127719
 r1
 xProcessProductPackaging
 x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
 x/Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection225"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent225"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent242b3bde811ab941^535e3bde811ab941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent00349cf2dcffdf42^774"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent    cd /Users/keith/Desktop/GitTest/GitUseExample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent36"0A668DF8-2A39-42CA-8F8E-19E5254BB738-
-bB29BBE56-6899-497A-A9CD-B53D21DEB1FD
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection225"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent225"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent7578201a8f1ab941^3eb3201a8f1ab941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent0000000000000000^774"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent    cd /Users/keith/Desktop/GitTest/GitUseExample    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/keith/Desktop/GitTest/GitUseExample/build/GitUseExample.build/Debug-iphoneos/GitUseExample.build/GitUseExample.xcent36"98E988E4-BC60-41D0-BB41-18BC118F9A8E-
+bF420EBD0-96B5-4823-BCCD-08FD458975B3
 
 CProcessProductPackaging /Users/keith/Library/MobileDevice/Provisioning\ Profiles/336B6D41-9372-4496-BB1B-4EB1C665666A.mobileprovision /Users/keith/Desktop/GitTest/GitUseExample/build/Debug-iphoneos/GitUseExample.app/embedded.mobileprovision
 s421167582.229413
