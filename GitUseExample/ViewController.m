@@ -21,6 +21,7 @@
     NSLog(@"This is a GIT tutorial");
     NSLog(@"New code to commit");
     NSLog(@"Edit to check github!");
+    NSLog(@"Did you see that????");
 }
 
 - (void)viewDidLoad
